@@ -1,4 +1,4 @@
-gjqjq qqqqqq/ import scala.io.Source
+import scala.io.Source
 //
 // object Main extends App {
 //   val filename = "input.txt"

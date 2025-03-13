@@ -1,6 +1,7 @@
-*/.metals/*
+**/.metals/*
 */.bloop/*
-*/.scala-build/*
+**/.scala-build/*
 */.bsp/*
-
-
+*/project/*
+*/target/*
+*/metals
